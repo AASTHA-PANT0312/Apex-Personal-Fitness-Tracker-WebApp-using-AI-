@@ -10,7 +10,7 @@ Apex Personal Fitness Tracker is an end-to-end AI-powered solution built on real
 ---
 
 ### 📁 Dataset
-Due to file size constraints, all datasets are provided in a single zip (archive.zip) except merged_dataset
+Due to file size constraints, all datasets are provided in a single zip (archive.zip) except merged_dataset.Ensure that you have all these data sets in the same folder as app.py and fitness.ipynb,no subfolder allowed.
 
 
 ➡️  [Fitbit Dataset by Animesh Mahajan on Kaggle](https://www.kaggle.com/datasets/animeshmahajan/fitbit-dataset)  
@@ -108,7 +108,7 @@ Three regression models were trained to predict daily calories burned:
 .
 ├── fitness.ipynb              # Jupyter notebook with full EDA, feature engineering & model training
 ├── app.py                     # Streamlit app for interactive visualization and prediction
-├── data/                      #Download it either from the zip or the original data source
+├── data/                      #Download it either from the zip or the original data source and ensure that you have them all in the same folder as fitness.ipynb and app.py
 │   ├── dailyActivity.csv       # Fitbit daily activity data
 │   ├── dailySteps.csv          # Daily step counts
 │   ├── dailyCalories.csv       # Daily calories burned
