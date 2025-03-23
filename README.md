@@ -11,8 +11,7 @@ Apex Personal Fitness Tracker is an end-to-end AI-powered solution built on real
 
 ### 📁 Dataset
 Due to file size constraints, all datasets are provided in a single zip (archive.zip) except merged_dataset
-👉 After downloading datasets.zip, please extract it inside your project folder. It will create a datasets/ directory containing the following files:
-Original Dataset Source:
+
 
 ➡️  [Fitbit Dataset by Animesh Mahajan on Kaggle](https://www.kaggle.com/datasets/animeshmahajan/fitbit-dataset)  
 
